@@ -39,8 +39,9 @@
 
 ### 🚀 Highlighted Projects
 <p align="center">
-    <b>WMH-SynthSeg</b>
+    <h3 align="center">WMH-SynthSeg</h3>
 </p>
+
 <p align="center">
     Quantifying white matter hyperintensity and brain volumes in heterogeneous clinical and low-field portable MRI
 </p>
