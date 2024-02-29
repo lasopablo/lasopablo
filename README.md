@@ -81,19 +81,11 @@ I'm Pablo Laso, a Data Scientist specializing in ML and DL. Currently, I'm lever
 <details>
 <p align="center">
   <a href="https://surfer.nmr.mgh.harvard.edu/fswiki/WMH-SynthSeg">
-    <img src="your-thumbnail-url" width="400" alt="Quantifying white matter hyperintensity and brain volumes">
+    <img src="https://surfer.nmr.mgh.harvard.edu/fswiki/WMH-SynthSeg?action=AttachFile&do=get&target=examples.png" width="400" alt="Quantifying white matter hyperintensity and brain volumes">
   </a>
   <a href="https://lasopablo.github.io/projects_CAD.html">
     <img src="your-thumbnail-url" width="400" alt="AI-based Prostate MRI Detection">
   </a>
 </p>
 </details>
-
-### 🎵 Now Playing
-
-<br>
-Currently Coding & Listening to:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pablo.laso&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/pablo.laso)
-
 
