@@ -40,7 +40,7 @@ Here are some highlights of my work:
 
 ### 👨‍💼 About Me
 
-I'm Pablo Laso, a Data Scientist specializing in ML and DL. Currently, I'm leveraging my skills in Computer Vision and NLP to solve complex challenges in the field. Below is a glimpse of my journey so far:
+I'm Pablo Laso, a Data Scientist specializing in ML and DL. Currently, I'm leveraging my skills in Computer Vision and Statistics to solve complex challenges in the field. Below is a glimpse of my journey so far:
 
 - 🎓 **Education:** M.Sc. in Data Science from the University of Twente, with previous studies at KTH and a B.Sc. in Biomedical Engineering from Rey Juan Carlos University.
 - 👨‍💻 **Experience:** Former Engineer Assistant at Karolinska Institutet, where I enhanced image processing workflows and data management for medical research.
