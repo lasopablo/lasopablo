@@ -60,3 +60,33 @@ I'm Pablo Laso, a Data Scientist specializing in ML and DL. Currently, I'm lever
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasopablo&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </p>
+
+### 🚀 Highlighted Projects
+
+<p align="center">
+  <a href="https://surfer.nmr.mgh.harvard.edu/fswiki/WMH-SynthSeg">
+    <img src="your-thumbnail-url" width="400" alt="Quantifying white matter hyperintensity and brain volumes">
+  </a>
+  <a href="https://lasopablo.github.io/projects_CAD.html">
+    <img src="your-thumbnail-url" width="400" alt="AI-based Prostate MRI Detection">
+  </a>
+</p>
+
+### 🔧 Technologies & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-MATLAB-orange?style=for-the-badge&logo=matlab&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-TensorFlow-ff69b4?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-PyTorch-9cf?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-OpenCV-green?style=for-the-badge&logo=opencv&logoColor=white">
+</p>
+
+### 🎵 Now Playing
+
+<p align="center">
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
+
