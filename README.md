@@ -40,7 +40,7 @@
 ### 🚀 Highlighted Projects
 <p align="center">
     Quantifying white matter hyperintensity and brain volumes in heterogeneous clinical and low-field portable MRI
-</p>p>
+</p>
 
 <p align="center">
   <a href="https://surfer.nmr.mgh.harvard.edu/fswiki/WMH-SynthSeg">
