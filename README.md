@@ -98,3 +98,10 @@ I'm Pablo Laso, a Data Scientist specializing in ML and DL. Currently, I'm lever
 </p>
 </details>
 
+### 🚧 Daily Coding Activity
+
+<p align="center">
+  <a href="https://github.com/lasopablo">
+    <img src="https://github.com/lasopablo/lasopablo/blob/main/images/code-frequency.svg" alt="Daily Coding Activity" />
+  </a>
+</p>
