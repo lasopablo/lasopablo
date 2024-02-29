@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**lasopablo/lasopablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://github.com/yourusername">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2000&pause=100&multiline=true&width=435&height=70&lines=Your+Name;Data+Scientist+%7C+ML+and+DL+Specialist" alt="Typing SVG" />
+</a>
+<br/>
 
-Here are some ideas to get you started:
+<a href="your-website-link">
+    <img src="https://img.shields.io/badge/Website-yourwebsite.com-blue?style=flat-square">
+</a>  
+<a href="your-resume-link">
+    <img src="https://img.shields.io/badge/PDF-Resume-blue?style=flat-square&logo=adobe">
+</a>  
+<a href="your-linkedin-profile">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:your-email">
+    <img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail&logoColor=white">
+</a>
+<a href="your-google-scholar-link" target="_blank">
+    <img alt='Google Scholar' src='https://img.shields.io/badge/Scholar-blue?style=flat&logo=GoogleScholar&logoColor=white&&color=blue'>
+</a>
+<a href="your-calendly-link">
+    <img src="https://img.shields.io/badge/-Schedule%20a%20Meeting-blue?style=flat-square&logo=calendly&logoColor=white">
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
