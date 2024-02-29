@@ -47,3 +47,16 @@ I'm Pablo Laso, a Data Scientist specializing in ML and DL. Currently, I'm lever
 - 👨‍💻 **Experience:** Former Engineer Assistant at Karolinska Institutet (Sweden), where I enhanced image processing workflows and data management for medical research.
 - 🌍 **Location:** Boston, MA, working on AI applications in healthcare.
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/lasopablo">
+    <img src="https://github-readme-stats.vercel.app/api?username=lasopablo&show_icons=true&theme=radical" alt="Pablo's GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/lasopablo">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasopablo&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</p>
