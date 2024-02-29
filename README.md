@@ -27,8 +27,8 @@
 </a>
 </p>
 
-### 🔧 Technologies & Tools
-
+<details>
+<summary>### 🔧 Technologies & Tools</summary>
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Code-MATLAB-orange?style=for-the-badge&logo=matlab&logoColor=white">
@@ -36,6 +36,9 @@
   <img src="https://img.shields.io/badge/Tools-PyTorch-9cf?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-OpenCV-green?style=for-the-badge&logo=opencv&logoColor=white">
 </p>
+</details>
+
+
 
 ### 🚀 Projects
 
