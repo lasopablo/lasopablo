@@ -28,7 +28,7 @@
 </p>
 
 
-🔧 Technologies & Tools</summary>
+### 🔧 Technologies & Tools</summary>
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Code-MATLAB-orange?style=for-the-badge&logo=matlab&logoColor=white">
@@ -38,9 +38,20 @@
 </p>
 
 ### 🚀 Highlighted Projects
+Quantifying White Matter Hyperintensity and Brain Volumes
+
 <p align="center">
   <a href="https://surfer.nmr.mgh.harvard.edu/fswiki/WMH-SynthSeg">
     <img src="https://surfer.nmr.mgh.harvard.edu/fswiki/WMH-SynthSeg?action=AttachFile&do=get&target=examples.png" width="400" alt="Quantifying white matter hyperintensity and brain volumes">
+  </a>
+</p>
+<p align="center">
+Developed as part of my Master's thesis at MGH, Harvard Medical School, this project leverages WMH-SynthSeg, an extension of SynthSeg, designed for brain MRI scans. It uniquely adapts to low-field MRI scans, providing high-resolution segmentations of white matter hyperintensities (WMH) and anatomical structures, even in challenging imaging conditions.
+</p>
+<p align="center">
+<b>Author:</b> Pablo Laso <br>
+<b>Email:</b> <a href="mailto:plaso@kth.se">plaso@kth.se</a> <br>
+<b>Citation:</b> If you use WMH-SynthSeg in your analysis, please cite our paper under review.
 </p>
 
 
