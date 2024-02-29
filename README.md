@@ -9,20 +9,17 @@
 <a href="https://lasopablo.github.io">
     <img src="https://img.shields.io/badge/Website-lasopablo.github.io-blue?style=flat-square">
 </a>
-<a href="[CV](https://lasopablo.github.io/about)">
+<a href="https://lasopablo.github.io/about">
     <img src="https://img.shields.io/badge/PDF-Resume-blue?style=flat-square&logo=adobe">
 </a>  
-<a href="your-linkedin-profile">
+<a href="https://www.linkedin.com/in/lasopablo/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="mailto:your-email">
+<a href="mailto:plaso@kth.se">
     <img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<a href="your-google-scholar-link" target="_blank">
+<a href="https://scholar.google.com/citations?user=fg-K6PIAAAAJ&hl=en" target="_blank">
     <img alt='Google Scholar' src='https://img.shields.io/badge/Scholar-blue?style=flat&logo=GoogleScholar&logoColor=white&&color=blue'>
-</a>
-<a href="your-calendly-link">
-    <img src="https://img.shields.io/badge/-Schedule%20a%20Meeting-blue?style=flat-square&logo=calendly&logoColor=white">
 </a>
 </p>
 
