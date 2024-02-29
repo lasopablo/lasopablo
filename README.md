@@ -32,7 +32,8 @@
 
 Here are some highlights of my work:
 
-- **AI-based Prostate MRI Detection:** An advanced CAD system for detecting and classifying prostate cancer from MRI scans. [View Project](your-project-link)
-- **Deep Learning for Lung Ultrasound Imaging:** Utilized CNNs and transfer learning to identify pneumonia and COVID-19 from LUS images. [View Project](your-project-link)
-- **Gest2talk:** A myo-armband project for aiding individuals with speech impairments communicate through gesture recognition. [View Project](your-project-link)
+- **Quantifying white matter hyperintensity and brain volumes in heterogeneous clinical and low-field portable MRI.** Master's thesis at MGH, Harvard Medical School. [View Project]([https://surfer.nmr.mgh.harvard.edu/fswiki/WMH-SynthSeg](https://lasopablo.github.io/projects_CAD.html))
+- **AI-based Prostate MRI Detection:** An advanced CAD system for detecting and classifying prostate cancer from MRI scans. [View Project]([your-project-link](https://lasopablo.github.io/projects_CAD.html))
+- **Deep Learning for Lung Ultrasound Imaging:** Utilized CNNs and transfer learning to identify pneumonia and COVID-19 from LUS images. [View Project]([your-project-link](https://github.com/lasopablo/Covid_UltraSound))
+- **Gest2talk:** A myo-armband project for aiding individuals with speech impairments communicate through gesture recognition. [View Project]([your-project-link](https://github.com/lasopablo/EMG-Gesture-Recognition)https://github.com/lasopablo/EMG-Gesture-Recognition)
 
