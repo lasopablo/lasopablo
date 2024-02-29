@@ -37,6 +37,11 @@
   <img src="https://img.shields.io/badge/Tools-OpenCV-green?style=for-the-badge&logo=opencv&logoColor=white">
 </p>
 
+### 🚀 Highlighted Projects
+<p align="center">
+  <a href="https://surfer.nmr.mgh.harvard.edu/fswiki/WMH-SynthSeg">
+    <img src="https://surfer.nmr.mgh.harvard.edu/fswiki/WMH-SynthSeg?action=AttachFile&do=get&target=examples.png" width="400" alt="Quantifying white matter hyperintensity and brain volumes">
+</p>
 
 
 ### 🚀 Projects
@@ -72,19 +77,6 @@ I'm Pablo Laso, a Data Scientist specializing in ML and DL. Currently, I'm lever
 <p align="center">
   <a href="https://github.com/lasopablo">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasopablo&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
-</p>
-</details>
-
-### 🚀 Highlighted Projects
-
-<details>
-<p align="center">
-  <a href="https://surfer.nmr.mgh.harvard.edu/fswiki/WMH-SynthSeg">
-    <img src="https://surfer.nmr.mgh.harvard.edu/fswiki/WMH-SynthSeg?action=AttachFile&do=get&target=examples.png" width="400" alt="Quantifying white matter hyperintensity and brain volumes">
-  </a>
-  <a href="https://lasopablo.github.io/projects_CAD.html">
-    <img src="your-thumbnail-url" width="400" alt="AI-based Prostate MRI Detection">
   </a>
 </p>
 </details>
