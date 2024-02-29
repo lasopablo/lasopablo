@@ -7,7 +7,7 @@
 <br/>
 
 <a href="[my website](https://lasopablo.github.io)">
-    <img src="https://img.shields.io/badge/Website-yourwebsite.com-blue?style=flat-square">
+    <img src="https://img.shields.io/badge/Website-lasopablo.github.io.com-blue?style=flat-square">
 </a>  
 <a href="[CV](https://lasopablo.github.io/about)">
     <img src="https://img.shields.io/badge/PDF-Resume-blue?style=flat-square&logo=adobe">
