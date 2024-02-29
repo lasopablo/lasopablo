@@ -37,3 +37,12 @@ Here are some highlights of my work:
 - **Deep Learning for Lung Ultrasound Imaging:** Utilized CNNs and transfer learning to identify pneumonia and COVID-19 from LUS images. [View Project](https://github.com/lasopablo/Covid_UltraSound)
 - **Gest2talk:** A myo-armband project for aiding individuals with speech impairments communicate through gesture recognition. [View Project](https://github.com/lasopablo/EMG-Gesture-Recognition)
 
+
+### 👨‍💼 About Me
+
+I'm Pablo Laso, a Data Scientist specializing in ML and DL. Currently, I'm leveraging my skills in Computer Vision and NLP to solve complex challenges in the field. Below is a glimpse of my journey so far:
+
+- 🎓 **Education:** M.Sc. in Data Science from the University of Twente, with previous studies at KTH and a B.Sc. in Biomedical Engineering from Rey Juan Carlos University.
+- 👨‍💻 **Experience:** Former Engineer Assistant at Karolinska Institutet, where I enhanced image processing workflows and data management for medical research.
+- 🌍 **Location:** Boston, MA, working on AI applications in healthcare.
+
