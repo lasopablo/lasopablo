@@ -5,10 +5,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2000&pause=100&multiline=true&width=435&height=70&lines=Pablo+Laso;Data+Scientist+%7C+ML+and+DL+Specialist" alt="Typing SVG" />
 </a>
 <br/>
-
-<a href="[my website](https://lasopablo.github.io)">
-    <img src="https://img.shields.io/badge/Website-lasopablo.github.io.com-blue?style=flat-square">
-</a>  
+    
+<a href="https://lasopablo.github.io">
+    <img src="https://img.shields.io/badge/Website-lasopablo.github.io-blue?style=flat-square">
+</a>
 <a href="[CV](https://lasopablo.github.io/about)">
     <img src="https://img.shields.io/badge/PDF-Resume-blue?style=flat-square&logo=adobe">
 </a>  
