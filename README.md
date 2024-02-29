@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-    Quantifying white matter hyperintensity and brain volumes in heterogeneous clinical and low-field portable MRI
+    Quantifying white matter hyperintensity and brain volumes in heterogeneous clinical and low-field portable MRI [View Project](https://github.com/lasopablo/freesurfer-freesurfer-dev-mri_WMHsynthseg)
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@ Developed as part of my Master's thesis at MGH, Harvard Medical School, this pro
 <p align="center">
 <b>Author:</b> Pablo Laso <br>
 <b>Email:</b> <a href="mailto:plaso@kth.se">plaso@kth.se</a> <br>
-<b>Citation:</b> If you use WMH-SynthSeg in your analysis, please cite <a href="https://arxiv.org/abs/2312.05119">our paper under review.</a> <br>
+<b>Citation:</b> If you use WMH-SynthSeg in your analysis, please cite <a href="https://arxiv.org/abs/2312.05119">our paper</a> under review. <br>
 </p>
 
 
