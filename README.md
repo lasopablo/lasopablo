@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Tools-OpenCV-green?style=for-the-badge&logo=opencv&logoColor=white">
 </p>
 
-### ⭐🌟 Highlighted Projects
+### 🌟 Highlighted Projects
 <p align="center">
     <h3 align="center">WMH-SynthSeg</h3>
 </p>
