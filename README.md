@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-    "Quantifying White Matter Hyperintensity and Brain Volumes in Heterogeneous Clinical and Low-Field portable MRI". <a href="https://github.com/lasopablo/freesurfer-freesurfer-dev-mri_WMHsynthseg">[View Project]</a>
+    "Quantifying White Matter Hyperintensity and Brain Volumes in Heterogeneous Clinical and Low-field portable MRI". <a href="https://github.com/lasopablo/freesurfer-freesurfer-dev-mri_WMHsynthseg">[View Project]</a>
 </p>
 
 <p align="center">
