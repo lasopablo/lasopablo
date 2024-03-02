@@ -66,7 +66,7 @@ Developed as part of my Master's thesis at MGH, Harvard Medical School, this pro
 <details> Here are some highlights of my work:
 
 - **Quantifying white matter hyperintensity and brain volumes in heterogeneous clinical and low-field portable MRI.** Master's thesis at MGH, Harvard Medical School. [View Project](https://surfer.nmr.mgh.harvard.edu/fswiki/WMH-SynthSeg)
-   **AI-based Prostate MRI Detection** at [GE](ge.com)**:** An advanced CAD system for detecting and classifying prostate cancer from MRI scans. [View Project](https://lasopablo.github.io/projects_CAD.html)
+- **AI-based Prostate MRI Detection** at [GE](ge.com)**:** An advanced CAD system for detecting and classifying prostate cancer from MRI scans. [View Project](https://lasopablo.github.io/projects_CAD.html)
 - **Deep Learning for Lung Ultrasound Imaging:** Utilized CNNs and transfer learning to identify pneumonia and COVID-19 from LUS images. [View Project](https://github.com/lasopablo/Covid_UltraSound)
 - **Gest2talk:** A myo-armband project for aiding individuals with speech impairments communicate through gesture recognition. [View Project](https://github.com/lasopablo/EMG-Gesture-Recognition)
 </details>
