@@ -76,8 +76,8 @@ Developed as part of my Master's thesis at MGH, Harvard Medical School, this pro
 <details>
 I'm Pablo Laso, a Data Scientist specializing in ML and DL. Currently, I'm leveraging my skills in Computer Vision and Statistics to solve complex challenges in the field. Below is a glimpse of my journey so far:
 
-- 🎓 **Education:** M.Sc. in Computer Science from the [University of Twente](https://www.utwente.nl) (Netherlands), with previous studies at [KTH](kth.se) (Sweden) in Data Science and Statistics. Master's thesis on Deep Learning, as a student at the [MGH-Martinos Center](https://hst.mit.edu) (MIT and Harvard Medical School), Boston, MA, USA. 
-- 👨‍💻 **Experience:** Former Engineer Research Assistant at [Karolinska Institutet](ki.se) (Sweden), where I enhanced image processing workflows and data management for medical research. Previous work at [GE](ge.com), on AI algorithm development.
+- 🎓 **Education:** M.Sc. in Computer Science from the [University of Twente](https://www.utwente.nl) (Netherlands), with previous studies at [KTH](https://kth.se) (Sweden) in Data Science and Statistics. Master's thesis on Deep Learning, as a student at the [MGH-Martinos Center](https://hst.mit.edu) (MIT and Harvard Medical School), Boston, MA, USA. 
+- 👨‍💻 **Experience:** Former Engineer Research Assistant at [Karolinska Institutet](https://ki.se) (Sweden), where I enhanced image processing workflows and data management for medical research. Previous work at [GE](https://ge.com), on AI algorithm development.
 - 🌍 **Location:** Boston, MA, working on AI applications in healthcare.
 </details>
 
