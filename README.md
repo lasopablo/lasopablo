@@ -66,7 +66,7 @@ Developed as part of my Master's thesis at MGH, Harvard Medical School, this pro
 <details> Here are some highlights of my work:
 
 - **Quantifying white matter hyperintensity and brain volumes in heterogeneous clinical and low-field portable MRI.** Master's thesis at MGH, Harvard Medical School. [View Project](https://surfer.nmr.mgh.harvard.edu/fswiki/WMH-SynthSeg)
-- **AI-based Prostate MRI Detection** at [GE](ge.com)**:** An advanced CAD system for detecting and classifying prostate cancer from MRI scans. [View Project](https://lasopablo.github.io/projects_CAD.html)
+- **AI-based Prostate MRI Detection** at [GE](https://www.ge.com)**:** An advanced CAD system for detecting and classifying prostate cancer from MRI scans. [View Project](https://lasopablo.github.io/projects_CAD.html)
 - **Deep Learning for Lung Ultrasound Imaging:** Utilized CNNs and transfer learning to identify pneumonia and COVID-19 from LUS images. [View Project](https://github.com/lasopablo/Covid_UltraSound)
 - **Gest2talk:** A myo-armband project for aiding individuals with speech impairments communicate through gesture recognition. [View Project](https://github.com/lasopablo/EMG-Gesture-Recognition)
 </details>
@@ -77,7 +77,7 @@ Developed as part of my Master's thesis at MGH, Harvard Medical School, this pro
 I'm Pablo Laso, a Data Scientist specializing in ML and DL. Currently, I'm leveraging my skills in Computer Vision and Statistics to solve complex challenges in the field. Below is a glimpse of my journey so far:
 
 - 🎓 **Education:** M.Sc. in Computer Science from the [University of Twente](https://www.utwente.nl) (Netherlands), with previous studies at [KTH](https://kth.se) (Sweden) in Data Science and Statistics. Master's thesis on Deep Learning, as a student at the [MGH-Martinos Center](https://hst.mit.edu) (MIT and Harvard Medical School), Boston, MA, USA. 
-- 👨‍💻 **Experience:** Former Engineer Research Assistant at [Karolinska Institutet](https://ki.se) (Sweden), where I enhanced image processing workflows and data management for medical research. Previous work at [GE](https://ge.com), on AI algorithm development.
+- 👨‍💻 **Experience:** Former Engineer Research Assistant at [Karolinska Institutet](https://ki.se) (Sweden), where I enhanced image processing workflows and data management for medical research. Previous work at [GE](https://www.ge.com), on AI algorithm development.
 - 🌍 **Location:** Boston, MA, working on AI applications in healthcare.
 </details>
 
