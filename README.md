@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Code-R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <br>
   <!-- Databases -->
   <img src="https://img.shields.io/badge/Tools-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <!-- Machine Learning & NLP -->
