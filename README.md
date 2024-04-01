@@ -31,8 +31,7 @@
 ### 🔧 Technologies & Tools</summary>
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Code-MATLAB-orange?style=for-the-badge&logo=matlab&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-TensorFlow-ff69b4?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white">  <img src="https://img.shields.io/badge/Tools-TensorFlow-ff69b4?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-PyTorch-9cf?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-OpenCV-green?style=for-the-badge&logo=opencv&logoColor=white">
 </p>
