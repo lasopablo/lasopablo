@@ -30,11 +30,17 @@
 
 ### 🔧 Technologies & Tools</summary>
 <p align="center">
-<img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white">
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Code-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <!-- Removed TensorFlow Badge -->
   <img src="https://img.shields.io/badge/Tools-PyTorch-9cf?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-OpenCV-green?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white">
+</p>
+
 
 ### 🌟 Highlighted Projects
 <p align="center">
