@@ -46,8 +46,8 @@
   <!-- Databases & Big Data -->
   <img src="https://img.shields.io/badge/Tools-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <br>
   <!-- Machine Learning, Time Series & NLP -->
