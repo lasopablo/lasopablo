@@ -30,16 +30,30 @@
 
 ### 🔧 Technologies & Tools</summary>
 <p align="center">
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white">
+  <!-- Coding Languages -->
   <img src="https://img.shields.io/badge/Code-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-PyTorch-9cf?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-OpenCV-green?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Code-R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/Tools-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <!-- Machine Learning & NLP -->
+  <img src="https://img.shields.io/badge/Tools-BERT-yellow?style=for-the-badge&logo=bert&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-NLTK-7C8EB2?style=for-the-badge&logo=nltk&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-PyTorch-9cf?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-sktime-FF9700?style=for-the-badge&logo=sktime&logoColor=white">
+  <!-- Big Data -->
+  <img src="https://img.shields.io/badge/Tools-Apache_Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white">
+  <!-- Data Visualization -->
+  <img src="https://img.shields.io/badge/Tools-Seaborn-6f5499?style=for-the-badge&logo=seaborn&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+  <!-- Computer Vision -->
+  <img src="https://img.shields.io/badge/Tools-OpenCV-green?style=for-the-badge&logo=opencv&logoColor=white">
 </p>
+
 
 
 ### 🌟 Highlighted Projects
