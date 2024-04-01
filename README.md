@@ -36,10 +36,14 @@
   <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Code-R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <br>
-  <!-- Computer Vision -->
-  <img src="https://img.shields.io/badge/Tools-PyTorch-9cf?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-OpenCV-green?style=for-the-badge&logo=opencv&logoColor=white">
-  <br>
+    <!-- Computer Vision -->
+    <img src="https://img.shields.io/badge/Tools-PyTorch-9cf?style=for-the-badge&logo=pytorch&logoColor=white">
+    <img src="https://img.shields.io/badge/Tools-OpenCV-green?style=for-the-badge&logo=opencv&logoColor=white">
+    <img src="https://img.shields.io/badge/Tools-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
+    <img src="https://img.shields.io/badge/Tools-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+    <img src="https://img.shields.io/badge/Tools-CNTK-5bd1d7?style=for-the-badge&logo=cntk&logoColor=white">
+    <br>
+
   <!-- Databases & BigData-->
   <img src="https://img.shields.io/badge/Tools-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-Apache_Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white">
