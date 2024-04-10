@@ -13,7 +13,7 @@
 <a href="https://lasopablo.github.io">
     <img src="https://img.shields.io/badge/Website-lasopablo.github.io-1f425f?style=flat-square">
 </a>
-<a href="https://lasopablo.github.io/about">
+<a href="https://lasopablo.github.io/resume.pdf">
     <img src="https://img.shields.io/badge/Resume-PDF-critical?style=flat-square&logo=adobe&logoColor=white">
 </a>  
 <a href="https://www.linkedin.com/in/lasopablo/">
