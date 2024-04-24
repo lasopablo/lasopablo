@@ -39,13 +39,6 @@
   <img src="https://img.shields.io/badge/Code-MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white">
   <img src="https://img.shields.io/badge/Code-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white">
   <br>
-  <!-- Computer Vision -->
-  <img src="https://img.shields.io/badge/Tools-PyTorch-9cf?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-OpenCV-green?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-CNTK-5bd1d7?style=for-the-badge&logo=cntk&logoColor=white">
-  <br>
   <!-- Databases & Big Data -->
   <img src="https://img.shields.io/badge/Tools-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white">
@@ -61,6 +54,7 @@
   <img src="https://img.shields.io/badge/Tools-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <br>
   <!-- Data Science Tools -->
+  <img src="https://img.shields.io/badge/Tools-PyTorch-9cf?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
@@ -72,9 +66,6 @@
   <img src="https://img.shields.io/badge/Tools-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
-  <br>
-  <!-- Cloud Technologies -->
-  <img src="https://img.shields.io/badge/Tools-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </p>
 
 
