@@ -54,12 +54,6 @@
   <img src="https://img.shields.io/badge/Tools-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
   <br>
-  <!-- Machine Learning, Time Series & NLP -->
-  <img src="https://img.shields.io/badge/Tools-scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-BERT-yellow?style=for-the-badge&logo=bert&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-NLTK-7C8EB2?style=for-the-badge&logo=nltk&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-sktime-FF9700?style=for-the-badge&logo=sktime&logoColor=white">
-  <br>
   <!-- Development Tools -->
   <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
@@ -67,6 +61,7 @@
   <img src="https://img.shields.io/badge/Tools-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <br>
   <!-- Data Science Tools -->
+  <img src="https://img.shields.io/badge/Tools-scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
