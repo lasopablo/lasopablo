@@ -32,12 +32,9 @@
 <p align="center">
   <!-- Coding Languages -->
   <img src="https://img.shields.io/badge/Code-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Code-R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/Code-MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white">
-  <img src="https://img.shields.io/badge/Code-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white">
   <br>
   <!-- Databases & Big Data -->
   <img src="https://img.shields.io/badge/Tools-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
