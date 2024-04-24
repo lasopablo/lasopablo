@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Code-R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <br>
   <!-- Development Tools -->
   <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
