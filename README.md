@@ -36,6 +36,12 @@
   <img src="https://img.shields.io/badge/Code-R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
   <br>
+  <!-- Development Tools -->
+  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <br>
   <!-- Databases & Big Data -->
   <img src="https://img.shields.io/badge/Tools-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white">
@@ -43,12 +49,6 @@
   <img src="https://img.shields.io/badge/Tools-Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-  <br>
-  <!-- Development Tools -->
-  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <br>
   <!-- Data Science Tools -->
   <img src="https://img.shields.io/badge/Tools-PyTorch-9cf?style=for-the-badge&logo=pytorch&logoColor=white">
