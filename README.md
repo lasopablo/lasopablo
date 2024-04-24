@@ -35,6 +35,9 @@
   <img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Code-R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white">
   <br>
   <!-- Computer Vision -->
   <img src="https://img.shields.io/badge/Tools-PyTorch-9cf?style=for-the-badge&logo=pytorch&logoColor=white">
@@ -49,6 +52,7 @@
   <img src="https://img.shields.io/badge/Tools-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
   <br>
   <!-- Machine Learning, Time Series & NLP -->
   <img src="https://img.shields.io/badge/Tools-scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
@@ -56,10 +60,28 @@
   <img src="https://img.shields.io/badge/Tools-NLTK-7C8EB2?style=for-the-badge&logo=nltk&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-sktime-FF9700?style=for-the-badge&logo=sktime&logoColor=white">
   <br>
+  <!-- Development Tools -->
+  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <br>
+  <!-- Data Science Tools -->
+  <img src="https://img.shields.io/badge/Tools-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
+  <br>
   <!-- Data Visualization -->
   <img src="https://img.shields.io/badge/Tools-Seaborn-6f5499?style=for-the-badge&logo=seaborn&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
+  <br>
+  <!-- Cloud Technologies -->
+  <img src="https://img.shields.io/badge/Tools-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </p>
+
 
 
 
