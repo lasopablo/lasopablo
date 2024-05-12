@@ -75,7 +75,7 @@
 </p>
 
 <p align="center">
-    New data augmentation methods, refined priors, and a more robust loss function lead to unprecedented (Dec 2023) performance on a 3D CNN for image segmentation. Project culminated in the algorithm being implemented in a real medical setting and a paper accepted at IEEE ISBI 2024>[View Project]</a>
+    New data augmentation methods, refined priors, and a more robust loss function lead to unprecedented (Dec 2023) performance on a 3D CNN for image segmentation. Project culminated in the algorithm being implemented in a real medical setting and a paper accepted at IEEE ISBI 2024></a>
 </p>
 
 <p align="center">
