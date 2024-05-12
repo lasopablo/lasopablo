@@ -75,7 +75,7 @@
 </p>
 
 <p align="center">
-    New data augmentation methods, refined priors, and a more robust loss function lead to unprecedented (Dec 2023) performance on a 3D CNN for image segmentation. Project culminated in the algorithm being implemented in a real medical setting and a paper accepted at IEEE ISBI 2024></a>
+    New data augmentation methods, refined priors, and a more robust loss function lead to unprecedented (Dec 2023) performance on a 3D CNN for image segmentation. Project culminated in the algorithm being implemented in a real medical setting and a paper accepted at IEEE ISBI 2024</a>
 </p>
 
 <p align="center">
@@ -84,7 +84,8 @@
   </a>
 </p>
 <p align="center">
-Developed as part of my Master's thesis at Harvard (in collaboration with MIT and MGH), this project leverages WMH-SynthSeg, an extension of SynthSeg, designed for brain MRI scans. It uniquely adapts to low-field MRI scans, providing high-resolution segmentations of white matter hyperintensities (WMH) and anatomical structures, even in challenging imaging conditions.
+Developed as part of my Master's thesis at Harvard (in collaboration with MIT and MGH), this project was used to leverage WMH-SynthSeg, an extension of SynthSeg, designed for brain MRI scans. It was implemented in a medical setting since it is able to uniquely adapts to low-field MRI scans, providing high-resolution segmentations of white matter hyperintensities (WMH) and anatomical structures, even in challenging imaging conditions.
+    
 </p>
 <p align="center">
 <b>Author:</b> Pablo Laso <br>
