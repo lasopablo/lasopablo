@@ -10,7 +10,7 @@
 </a>
 <br/>
     
-<a href="https://lasopablo.github.io">
+<a href="https://lasopablo.github.io/vcard_portfolio/">
     <img src="https://img.shields.io/badge/Website-lasopablo.github.io-1f425f?style=flat-square">
 </a>
 <a href="https://lasopablo.github.io/resume.pdf">
