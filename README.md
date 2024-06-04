@@ -36,8 +36,8 @@
   <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Code-R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/Code-MATLAB-orange?style=for-the-badge&logo=matlab&logoColor=white">
-  <img src="https://img.shields.io/badge/Code-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/Code-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Scripting-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
 #### Data Science Tools
