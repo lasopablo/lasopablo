@@ -42,7 +42,7 @@
 
 #### Data Science Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Tools-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Libraries-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
