@@ -42,7 +42,7 @@
   <img src="https://img.icons8.com/color/48/000000/numpy.png">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" width="50" height="50"">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/scipy/scipy.png" width="50" height="50">
-  <img src="https://media.licdn.com/dms/image/D4D12AQFq38cGkv_oHQ/article-cover_image-shrink_600_2000/0/1679493396295?e=2147483647&v=beta&t=VbHivrsD3KbirknCmH5nq0TIEZxtIi7u2PuZXXiOYow" width="50" height="50">
+  <img src="https://www.opensourceforu.com/wp-content/uploads/2017/01/Illustration-2D-Plotting.jpg" width="50" height="50">
   <img src="https://cdn-b.saashub.com/images/app/service_logos/182/p54xtlu2fsl4/large.png?1626158441" width="50" height="50">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" width="50" height="50">
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png">
@@ -51,8 +51,6 @@
   <img src="https://static-00.iconduck.com/assets.00/aws-dynamodb-icon-454x512-53ebjxww.png" width="50" height="50">
   <img src="https://logowik.com/content/uploads/images/hadoop7135.jpg" height="50">
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" width="50" height="50">
-  <img src="https://img.icons8.com/?size=48&id=12939&format=png">
-  <img src="https://img.icons8.com/color/48/000000/spark.png">
   <img src="https://img.icons8.com/color/48/000000/javascript.png">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png">
   <img src="https://img.icons8.com/color/48/000000/react-native.png">
@@ -60,8 +58,8 @@
   <img src="https://img.icons8.com/?size=48&id=44807&format=png">
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
   <img src="https://img.icons8.com/color/48/000000/azure-1.png">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" width="50" height="50">
-  <img src="https://img.icons8.com/?size=48&id=13441&format=png">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtgdeliEiCynaZMB2giC3G-dPnSuY4Y8--gw&s">
+  <img src="https://nordicapis.com/wp-content/uploads/How-to-Create-an-API-Using-The-Flask-Framework.png">
   <img src="https://img.icons8.com/color/48/000000/django.png">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" width="50" height="50">
   <img src="https://img.icons8.com/color/48/000000/git.png">
