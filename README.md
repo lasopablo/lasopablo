@@ -28,58 +28,72 @@
 </p>
 
 
-Got it! Here is your GitHub README with the content from your resume skills converted into Markdown format, including different sections.
-
 ### 🔧 Technologies & Tools
 
 #### Programming
-- ![Python](https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white)
-- ![R](https://img.shields.io/badge/Code-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-- ![C++](https://img.shields.io/badge/Code-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- ![Scala](https://img.shields.io/badge/Code-Scala-red?style=for-the-badge&logo=scala&logoColor=white)
-- ![MATLAB](https://img.shields.io/badge/Code-MATLAB-orange?style=for-the-badge&logo=matlab&logoColor=white)
-- ![Bash](https://img.shields.io/badge/Code-Bash-scripting?style=for-the-badge&logo=gnu-bash&logoColor=white)
-- ![Linux](https://img.shields.io/badge/Code-Linux-environments?style=for-the-badge&logo=linux&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-Scala-red?style=for-the-badge&logo=scala&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-MATLAB-orange?style=for-the-badge&logo=matlab&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-Bash-scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-Linux-environments-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</p>
 
 #### Data Science Tools
-- ![Pandas](https://img.shields.io/badge/Tools-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-- ![NumPy](https://img.shields.io/badge/Tools-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-- ![scikit-learn](https://img.shields.io/badge/Tools-scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-- ![SciPy](https://img.shields.io/badge/Tools-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-- ![Matplotlib](https://img.shields.io/badge/Tools-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-- ![Seaborn](https://img.shields.io/badge/Tools-Seaborn-6f5499?style=for-the-badge&logo=seaborn&logoColor=white)
-- ![PyTorch](https://img.shields.io/badge/Tools-PyTorch-9cf?style=for-the-badge&logo=pytorch&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Tools-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Seaborn-6f5499?style=for-the-badge&logo=seaborn&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+</p>
 
 #### Data Management & Big Data
-- ![SQL](https://img.shields.io/badge/Tools-SQL-(MySQL, PostgreSQL)-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-- ![NoSQL](https://img.shields.io/badge/Tools-NoSQL-(MongoDB, DynamoDB)-green?style=for-the-badge&logo=mongodb&logoColor=white)
-- ![Hadoop](https://img.shields.io/badge/Tools-Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white)
-- ![PySpark](https://img.shields.io/badge/Tools-PySpark-orange?style=for-the-badge&logo=apache-spark&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Tools-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white">
+</p>
 
 #### Full-stack Development
-- ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Tools-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-- ![React](https://img.shields.io/badge/Code-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-- ![CSS](https://img.shields.io/badge/Code-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
-- ![Effect](https://img.shields.io/badge/Code-Effect-green?style=for-the-badge&logo=effect&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Code-CSS-blue?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-Effect-green?style=for-the-badge&logo=effect&logoColor=white">
+</p>
 
 #### Cloud Technologies
-- ![AWS](https://img.shields.io/badge/Tools-AWS-(EC2, S3)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-- ![Azure](https://img.shields.io/badge/Tools-Azure-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-- ![Vercel](https://img.shields.io/badge/Tools-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
-- ![API Deployment](https://img.shields.io/badge/Tools-API-deployment-(Flask, Django)-orange?style=for-the-badge&logo=flask&logoColor=white)
-- ![FastAPI](https://img.shields.io/badge/Tools-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Tools-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+</p>
 
 #### Version Control & CI/CD
-- ![Git](https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Tools-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-- ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+</p>
 
 #### Data Visualization & BI
-- ![Excel](https://img.shields.io/badge/Tools-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-- ![Tableau](https://img.shields.io/badge/Tools-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-- ![PowerBI](https://img.shields.io/badge/Tools-PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Tools-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
+</p>
 
 
 ### 🌟 Highlighted Projects
