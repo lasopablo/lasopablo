@@ -76,9 +76,9 @@
   <img src="https://img.shields.io/badge/Code-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Code-R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/Code-MATLAB-orange?style=for-the-badge&logo=matlab&logoColor=white">
-  <img src="https://img.shields.io/badge/Scripting-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.icons8.com/?size=48&id=r5Y16PcDkoWI&format=png&color=000000">
+  <img src="https://img.icons8.com/?size=48&id=9MJf0ngDwS8z&format=png&color=000000">
+  <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000">
 </p>
 
 #### Data Science Tools
@@ -98,7 +98,7 @@
   <img src="https://img.shields.io/badge/Tools-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white">
+  <img src="https://img.icons8.com/?size=100&id=69132&format=png&color=000000">
   <img src="https://img.shields.io/badge/Tools-PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white">
 </p>
 
