@@ -58,8 +58,8 @@
   <img src="https://img.icons8.com/?size=48&id=44807&format=png">
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
   <img src="https://img.icons8.com/color/48/000000/azure-1.png">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtgdeliEiCynaZMB2giC3G-dPnSuY4Y8--gw&s">
-  <img src="https://nordicapis.com/wp-content/uploads/How-to-Create-an-API-Using-The-Flask-Framework.png">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtgdeliEiCynaZMB2giC3G-dPnSuY4Y8--gw&s" width="50" height="50">
+  <img src="https://nordicapis.com/wp-content/uploads/How-to-Create-an-API-Using-The-Flask-Framework.png" width="50" height="50">
   <img src="https://img.icons8.com/color/48/000000/django.png">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" width="50" height="50">
   <img src="https://img.icons8.com/color/48/000000/git.png">
