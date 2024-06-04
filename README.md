@@ -58,7 +58,7 @@
   <img src="https://img.icons8.com/?size=48&id=44807&format=png">
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
   <img src="https://img.icons8.com/color/48/000000/azure-1.png">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/vercel/vercel.png" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" width="50" height="50">
   <img src="https://img.icons8.com/?size=48&id=13441&format=png">
   <img src="https://img.icons8.com/color/48/000000/django.png">
   <img src="https://img.icons8.com/?size=48&id=HvO1ZC5ESqGn&format=png">
@@ -121,7 +121,7 @@
   <img src="https://img.shields.io/badge/Tools-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" width="50" height="50">
+  <img src="https://img.shields.io/badge/Tools-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 </p>
 
 #### Version Control & CI/CD
