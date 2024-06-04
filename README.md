@@ -143,7 +143,7 @@
 
 ### 🌟 Highlighted Projects
 
-> ✔️: **repo available**: Visit the repo here: [my repo](https://github.com/lasopablo/freesurfer-freesurfer-dev-mri_WMHsynthseg/tree/main)
+> ✔️: MS thesis @Harvard: **Deep Learning optimisation and data augmentation methods for WMH quantification**: Visit the repo here: [my repo](https://github.com/lasopablo/freesurfer-freesurfer-dev-mri_WMHsynthseg/tree/main)
 
 
 ### 🚀 Projects
