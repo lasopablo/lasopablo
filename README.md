@@ -74,12 +74,13 @@
 #### Programming
 <p align="center">
   <img src="https://img.shields.io/badge/Code-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Code-MATLAB-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/Code-R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/Code-Bash_scrpting-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/Code-Linux-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-Python-yellow?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-MATLAB-orange?style=for-the-badge&logo=matlab&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-R-green?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-Bash_scripting-red?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-Linux-purple?style=for-the-badge&logo=linux&logoColor=white">
 </p>
+
 
 #### Data Science Tools
 <p align="center">
