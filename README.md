@@ -42,13 +42,13 @@
 
 #### Data Science Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Libraries-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-Seaborn-6f5499?style=for-the-badge&logo=seaborn&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Lib-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Lib-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Lib-scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Lib-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
+  <img src="https://img.shields.io/badge/Lib-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/Lib-Seaborn-6f5499?style=for-the-badge&logo=seaborn&logoColor=white">
+  <img src="https://img.shields.io/badge/Lib-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 </p>
 
 #### Data Management & Big Data
