@@ -86,7 +86,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Lib-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Lib-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Lib-Scikit_learn-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Lib-Scikit_learn-yellow?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Lib-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
   <img src="https://img.shields.io/badge/Lib-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
   <img src="https://img.shields.io/badge/Lib-Seaborn-6f5499?style=for-the-badge&logo=seaborn&logoColor=white">
