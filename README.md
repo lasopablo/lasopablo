@@ -141,12 +141,7 @@
 
 </details>
 
-
-### 🚀 Projects
-
-> ✔️: **website available**: Visit my projects here: [my portfolio](https://lasopablo.github.io/vcard_portfolio/)
-
-#### 🌟 Highlighted Projects
+### 🌟 Highlighted Projects
 
 <details> 
     <summary>MS thesis @Harvard: Deep Learning optimisation and data augmentation methods for WMH quantification. </summary>
@@ -176,17 +171,18 @@ Developed as part of my Master's thesis at Harvard (in collaboration with MIT an
 </details>
 
 
+### 🚀 Projects
+
+> ✔️: **website available**: Visit my projects here: [my portfolio](https://lasopablo.github.io/vcard_portfolio/)
+
 ### 👨‍💼 About Me
 
 > ✔️: **website available**: Visit my profile here: [my portfolio](https://lasopablo.github.io/vcard_portfolio/)
 
+### 📊 GitHub Stats
+
 <details>
-    <summary><b>📊 GitHub Stats</b></summary>
-<p align="center">
-  <a href="https://github.com/lasopablo">
-    <img src="https://github-readme-stats.vercel.app/api?username=lasopablo&show_icons=true&theme=radical" alt="Pablo's GitHub Stats" />
-  </a>
-</p>
+    <summary>View my GitHub statistics</summary>
 
 <p align="center">
   <a href="https://github.com/lasopablo">
