@@ -48,7 +48,7 @@
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png">
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27073%2Faws-dynamodb&psig=AOvVaw1JTmG5GijZVgxqQdRhLcp7&ust=1717627246739000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMCd-6CCw4YDFQAAAAAdAAAAABAE" width="50" height="50">
+  <img src="https://static-00.iconduck.com/assets.00/aws-dynamodb-icon-454x512-53ebjxww.png" width="50" height="50">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/hadoop/hadoop.png" width="50" height="50">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/apache-spark/apache-spark.png" width="50" height="50">
   <img src="https://img.icons8.com/?size=48&id=12939&format=png">
