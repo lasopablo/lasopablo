@@ -62,7 +62,30 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png">
   <img src="https://img.icons8.com/color/48/000000/react-native.png">
-  <img src="https://img.icons8.com/color/48/0000
+  <img src="https://img.icons8.com/color/48/000000/css3.png">
+  <img src="https://img.icons8.com/color/48/000000/effect.png">
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
+  <img src="https://img.icons8.com/color/48/000000/azure-1.png">
+  <img src="https://img.icons8.com/color/48/000000/vercel.png">
+  <img src="https://img.icons8.com/color/48/000000/flask.png">
+  <img src="https://img.icons8.com/color/48/000000/django.png">
+  <img src="https://img.icons8.com/color/48/000000/fastapi.png">
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/git.png">
+  <img src="https://img.icons8.com/color/48/000000/docker.png">
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png">
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel.png">
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png">
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png">
+</p>
 
 
 <details>
