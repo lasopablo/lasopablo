@@ -143,12 +143,7 @@
 
 ### 🌟 Highlighted Projects
 
-<details> 
-
 > ✔️: **repo available**: Visit the repo here: [my repo](https://github.com/lasopablo/freesurfer-freesurfer-dev-mri_WMHsynthseg/tree/main)
-
-
-</details>
 
 
 ### 🚀 Projects
@@ -163,7 +158,6 @@
 
 <details>
     <summary>View my GitHub statistics</summary>
-
 <p align="center">
   <a href="https://github.com/lasopablo">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasopablo&layout=compact&theme=radical" alt="Top Languages" />
