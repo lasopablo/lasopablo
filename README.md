@@ -61,7 +61,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" width="50" height="50">
   <img src="https://img.icons8.com/?size=48&id=13441&format=png">
   <img src="https://img.icons8.com/color/48/000000/django.png">
-  <img src="https://img.icons8.com/?size=48&id=HvO1ZC5ESqGn&format=png">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" width="50" height="50">
   <img src="https://img.icons8.com/color/48/000000/git.png">
   <img src="https://img.icons8.com/color/48/000000/docker.png">
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png">
