@@ -42,7 +42,7 @@
   <img src="https://img.icons8.com/color/48/000000/numpy.png">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" width="50" height="50"">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/scipy/scipy.png" width="50" height="50">
-  <img src="https://img.icons8.com/?size=48&id=12525&format=png">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/seaborn/seaborn.png" width="50" height="50">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" width="50" height="50">
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png">
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png">
@@ -90,8 +90,8 @@
   <img src="https://img.shields.io/badge/Lib-Scikit_learn-yellow?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Lib-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
   <img src="https://img.shields.io/badge/Lib-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
-  <img src="https://img.shields.io/badge/Lib-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/Lib-Seaborn-6f5499?style=for-the-badge&logo=seaborn&logoColor=white">
+  <img src="https://img.shields.io/badge/Lib-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 </p>
 
 #### Data Management & Big Data
