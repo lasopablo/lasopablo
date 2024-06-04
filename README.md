@@ -145,7 +145,7 @@
 ### 🌟 Highlighted Projects
 
 <details> 
-    <summary>MS thesis @Harvard: **Deep Learning optimisation and data augmentation methods for WMH quantification**. </summary>
+    <summary>MS thesis @Harvard: Deep Learning optimisation and data augmentation methods for WMH quantification. </summary>
 <p align="center">
     <h3 align="center">WMH-SynthSeg</h3>
 </p>
