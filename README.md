@@ -34,8 +34,8 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
   <img src="https://img.icons8.com/color/48/000000/python.png">
-  <img src="https://img.icons8.com/?size=48&id=CLvQeiwFpit4&format=png&color=000000">
   <img src="https://img.icons8.com/?size=48&id=r5Y16PcDkoWI&format=png&color=000000">
+  <img src="https://img.icons8.com/?size=48&id=CLvQeiwFpit4&format=png&color=000000">
   <img src="https://img.icons8.com/?size=48&id=9MJf0ngDwS8z&format=png&color=000000">
   <img src="https://img.icons8.com/?size=48&id=17842&format=png&color=000000">
   <img src="https://img.icons8.com/color/48/000000/pandas.png">
@@ -48,7 +48,9 @@
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png">
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png">
-  <img src="https://img.icons8.com/?size=48&id=33039&format=png">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/aws-dynamodb/aws-dynamodb.png" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/hadoop/hadoop.png" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/apache-spark/apache-spark.png" width="50" height="50">
   <img src="https://img.icons8.com/?size=48&id=12939&format=png">
   <img src="https://img.icons8.com/color/48/000000/spark.png">
   <img src="https://img.icons8.com/color/48/000000/javascript.png">
