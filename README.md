@@ -30,62 +30,47 @@
 
 ### 🔧 Technologies & Tools
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
-  <img src="https://img.icons8.com/color/48/000000/python.png">
-  <img src="https://img.icons8.com/color/48/000000/r-project.png">
-  <img src="https://img.icons8.com/color/48/000000/matlab.png">
-  <img src="https://img.icons8.com/color/48/000000/gnu-bash.png">
-  <img src="https://img.icons8.com/color/48/000000/linux.png">
-</p>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/pandas.png">
-  <img src="https://img.icons8.com/color/48/000000/numpy.png">
-  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png">
-  <img src="https://img.icons8.com/color/48/000000/scipy.png">
-  <img src="https://img.icons8.com/color/48/000000/matplotlib.png">
-  <img src="https://img.icons8.com/color/48/000000/seaborn.png">
-  <img src="https://img.icons8.com/color/48/000000/pytorch.png">
+  <img src="https://img.shields.io/badge/Code-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-MATLAB-orange?style=for-the-badge&logo=matlab&logoColor=white">
+  <img src="https://img.shields.io/badge/Scripting-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Lib-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Lib-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Lib-scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Lib-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
+  <img src="https://img.shields.io/badge/Lib-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/Lib-Seaborn-6f5499?style=for-the-badge&logo=seaborn&logoColor=white">
+  <img src="https://img.shields.io/badge/Lib-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Code-CSS-blue?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-Effect-green?style=for-the-badge&logo=effect&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
 </p>
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png">
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png">
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png">
-  <img src="https://img.icons8.com/color/48/000000/dynamodb.png">
-  <img src="https://img.icons8.com/color/48/000000/hadoop.png">
-  <img src="https://img.icons8.com/color/48/000000/spark.png">
-</p>
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png">
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png">
-  <img src="https://img.icons8.com/color/48/000000/react-native.png">
-  <img src="https://img.icons8.com/color/48/000000/css3.png">
-  <img src="https://img.icons8.com/color/48/000000/effect.png">
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
-  <img src="https://img.icons8.com/color/48/000000/azure-1.png">
-  <img src="https://img.icons8.com/color/48/000000/vercel.png">
-  <img src="https://img.icons8.com/color/48/000000/flask.png">
-  <img src="https://img.icons8.com/color/48/000000/django.png">
-  <img src="https://img.icons8.com/color/48/000000/fastapi.png">
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/git.png">
-  <img src="https://img.icons8.com/color/48/000000/docker.png">
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png">
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel.png">
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png">
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png">
-</p>
 
 
 <details>
