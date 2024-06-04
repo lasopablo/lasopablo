@@ -50,7 +50,7 @@
   <img src="https://img.icons8.com/?size=48&id=17842&format=png&color=000000">
   <img src="https://img.icons8.com/color/48/000000/pandas.png">
   <img src="https://img.icons8.com/color/48/000000/numpy.png">
-  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" width="50" height="50"">
   <img src="https://img.icons8.com/?size=48&id=39399&format=png">
   <img src="https://img.icons8.com/?size=48&id=12525&format=png">
   <img src="https://img.icons8.com/color/48/000000/pytorch.png">
