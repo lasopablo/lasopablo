@@ -157,7 +157,12 @@
 ### 📊 GitHub Stats
 
 <details>
-    <summary>View my GitHub statistics</summary>
+<p align="center">
+  <a href="https://github.com/lasopablo">
+    <img src="https://github-readme-stats.vercel.app/api?username=lasopablo&show_icons=true&theme=radical" alt="Pablo's GitHub Stats" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/lasopablo">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasopablo&layout=compact&theme=radical" alt="Top Languages" />
