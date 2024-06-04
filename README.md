@@ -79,8 +79,8 @@
   <img src="https://img.shields.io/badge/Code-Python-yellow?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Code-MATLAB-orange?style=for-the-badge&logo=matlab&logoColor=white">
   <img src="https://img.shields.io/badge/Code-R-green?style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/Code-Bash_scripting-red?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/Code-Linux-purple?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Scripting-Bash-red?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/OS-Linux-purple?style=for-the-badge&logo=linux&logoColor=white">
 </p>
 
 
