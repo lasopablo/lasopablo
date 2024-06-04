@@ -142,6 +142,8 @@
 
 
 ### 🌟 Highlighted Projects
+
+<details> 
 <p align="center">
     <h3 align="center">WMH-SynthSeg</h3>
 </p>
@@ -164,6 +166,8 @@ Developed as part of my Master's thesis at Harvard (in collaboration with MIT an
 <b>Email:</b> <a href="mailto:plaso@kth.se">plaso@kth.se</a> <br>
 <b>Citation:</b> If you use WMH-SynthSeg in your analysis, please cite <a href="https://arxiv.org/abs/2312.05119">our paper</a> under review. <br>
 </p>
+
+</details>
 
 
 ### 🚀 Projects
