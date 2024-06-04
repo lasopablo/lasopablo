@@ -36,7 +36,7 @@
   <img src="https://img.icons8.com/?size=48&id=CLvQeiwFpit4&format=png&color=000000">
   <img src="https://img.icons8.com/?size=48&id=r5Y16PcDkoWI&format=png&color=000000">
   <img src="https://img.icons8.com/?size=48&id=9MJf0ngDwS8z&format=png&color=000000">
-  <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000">
+  <img src="https://img.icons8.com/?size=48&id=17842&format=png&color=000000">
   <img src="https://img.icons8.com/color/48/000000/pandas.png">
   <img src="https://img.icons8.com/color/48/000000/numpy.png">
   <img src="https://img.icons8.com/color/48/000000/scikit-learn.png">
@@ -75,10 +75,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Code-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-MATLAB-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/Code-R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://img.icons8.com/?size=48&id=r5Y16PcDkoWI&format=png&color=000000">
-  <img src="https://img.icons8.com/?size=48&id=9MJf0ngDwS8z&format=png&color=000000">
-  <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000">
+  <img src="https://img.shields.io/badge/Code-Bash_scrpting-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-Linux-276DC3?style=for-the-badge&logo=r&logoColor=white">
 </p>
 
 #### Data Science Tools
