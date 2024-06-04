@@ -49,8 +49,8 @@
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png">
   <img src="https://static-00.iconduck.com/assets.00/aws-dynamodb-icon-454x512-53ebjxww.png" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/hadoop/hadoop.png" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/apache-spark/apache-spark.png" width="50" height="50">
+  <img src="https://p1.hiclipart.com/preview/963/225/299/hadoop-logo-apache-hadoop-big-data-cloud-computing-amazon-web-services-computer-software-apache-spark-amazon-elastic-compute-cloud-png-clipart.jpg" width="50" height="50">
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" width="50" height="50">
   <img src="https://img.icons8.com/?size=48&id=12939&format=png">
   <img src="https://img.icons8.com/color/48/000000/spark.png">
   <img src="https://img.icons8.com/color/48/000000/javascript.png">
