@@ -144,29 +144,9 @@
 ### 🌟 Highlighted Projects
 
 <details> 
-    <summary>MS thesis @Harvard: Deep Learning optimisation and data augmentation methods for WMH quantification. </summary>
-<p align="center">
-    <h3 align="center">WMH-SynthSeg</h3>
-</p>
 
-<p align="center">
-    New data augmentation methods, refined priors, and a more robust loss function lead to unprecedented (Dec 2023) performance on a 3D CNN for image segmentation. Project culminated in the algorithm being implemented in a real medical setting and a paper accepted at IEEE ISBI 2024</a>
-</p>
+> ✔️: **repo available**: Visit the repo here: [my repo](https://github.com/lasopablo/freesurfer-freesurfer-dev-mri_WMHsynthseg/tree/main)
 
-<p align="center">
-  <a href="https://surfer.nmr.mgh.harvard.edu/fswiki/WMH-SynthSeg">
-    <img src="https://miro.medium.com/v2/resize:fit:2000/1*ovEGmOI3bcCeauu8jEBzsg.png" width="400" alt="Quantifying white matter hyperintensity and brain volumes">
-  </a>
-</p>
-<p align="center">
-Developed as part of my Master's thesis at Harvard (in collaboration with MIT and MGH), this project was used to leverage WMH-SynthSeg, an extension of SynthSeg, designed for brain MRI scans. It was implemented in a medical setting since it is able to uniquely adapts to low-field MRI scans, providing high-resolution segmentations of white matter hyperintensities (WMH) and anatomical structures, even in challenging imaging conditions.
-    
-</p>
-<p align="center">
-<b>Author:</b> Pablo Laso <br>
-<b>Email:</b> <a href="mailto:plaso@kth.se">plaso@kth.se</a> <br>
-<b>Citation:</b> If you use WMH-SynthSeg in your analysis, please cite <a href="https://arxiv.org/abs/2312.05119">our paper</a> under review. <br>
-</p>
 
 </details>
 
