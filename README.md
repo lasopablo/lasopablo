@@ -31,6 +31,17 @@
 ### 🔧 Technologies & Tools
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/scipy/scipy.png" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/matplotlib/matplotlib.png" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/seaborn/seaborn.png" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" width="50" height="50">
+</p>
+
+
+<p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
   <img src="https://img.icons8.com/color/48/000000/python.png">
   <img src="https://img.icons8.com/?size=48&id=CLvQeiwFpit4&format=png&color=000000">
