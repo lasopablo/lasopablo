@@ -34,9 +34,9 @@
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
   <img src="https://img.icons8.com/color/48/000000/python.png">
   <img src="https://img.icons8.com/?size=48&id=CLvQeiwFpit4&format=png&color=000000">
-  <img src="https://img.icons8.com/color/48/000000/matlab.png">
-  <img src="https://img.icons8.com/color/48/000000/gnu-bash.png">
-  <img src="https://img.icons8.com/color/48/000000/linux.png">
+  <img src="https://img.icons8.com/?size=48&id=r5Y16PcDkoWI&format=png&color=000000">
+  <img src="https://img.icons8.com/?size=48&id=9MJf0ngDwS8z&format=png&color=000000">
+  <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000">
   <img src="https://img.icons8.com/color/48/000000/pandas.png">
   <img src="https://img.icons8.com/color/48/000000/numpy.png">
   <img src="https://img.icons8.com/color/48/000000/scikit-learn.png">
