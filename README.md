@@ -42,13 +42,13 @@
   <img src="https://img.icons8.com/color/48/000000/scikit-learn.png">
   <img src="https://img.icons8.com/color/48/000000/scipy.png">
   <img src="https://img.icons8.com/color/48/000000/matplotlib.png">
-  <img src="https://img.icons8.com/color/48/000000/seaborn.png">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Seaborn_logo.svg/1024px-Seaborn_logo.svg.png" width="48" height="48">
   <img src="https://img.icons8.com/color/48/000000/pytorch.png">
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png">
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png">
   <img src="https://img.icons8.com/color/48/000000/dynamodb.png">
-  <img src="https://img.icons8.com/color/48/000000/hadoop.png">
+  <img src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png">
   <img src="https://img.icons8.com/color/48/000000/spark.png">
   <img src="https://img.icons8.com/color/48/000000/javascript.png">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png">
@@ -68,6 +68,7 @@
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png">
   <img src="https://img.icons8.com/color/48/000000/power-bi.png">
 </p>
+
 
 <details>
 
