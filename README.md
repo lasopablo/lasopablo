@@ -90,8 +90,8 @@
   <img src="https://img.shields.io/badge/Lib-Scikit_learn-yellow?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Lib-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
   <img src="https://img.shields.io/badge/Lib-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
-  <img src="https://img.shields.io/badge/Lib-Seaborn-6f5499?style=for-the-badge&logo=seaborn&logoColor=white">
   <img src="https://img.shields.io/badge/Lib-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Lib-Seaborn-6f5499?style=for-the-badge&logo=seaborn&logoColor=white">
 </p>
 
 #### Data Management & Big Data
