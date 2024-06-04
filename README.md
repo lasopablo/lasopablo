@@ -33,33 +33,33 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
   <img src="https://img.icons8.com/color/48/000000/python.png">
-  <img src="https://img.icons8.com/?size=48&id=CLvQeiwFpit4&format=png&color=000000">  
+  <img src="https://img.icons8.com/?size=48&id=CLvQeiwFpit4&format=png&color=000000">
   <img src="https://img.icons8.com/color/48/000000/matlab.png">
   <img src="https://img.icons8.com/color/48/000000/gnu-bash.png">
   <img src="https://img.icons8.com/color/48/000000/linux.png">
   <img src="https://img.icons8.com/color/48/000000/pandas.png">
   <img src="https://img.icons8.com/color/48/000000/numpy.png">
   <img src="https://img.icons8.com/color/48/000000/scikit-learn.png">
-  <img src="https://img.icons8.com/color/48/000000/scipy.png">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Seaborn_logo.svg/1024px-Seaborn_logo.svg.png" width="48" height="48">
+  <img src="https://img.icons8.com/?size=48&id=39399&format=png">
+  <img src="https://img.icons8.com/?size=48&id=12525&format=png">
   <img src="https://img.icons8.com/color/48/000000/pytorch.png">
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png">
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png">
-  <img src="https://img.icons8.com/color/48/000000/dynamodb.png">
-  <img src="https://img.icons8.com/color/48/000000/hadoop.png">
+  <img src="https://img.icons8.com/?size=48&id=33039&format=png">
+  <img src="https://img.icons8.com/?size=48&id=12939&format=png">
   <img src="https://img.icons8.com/color/48/000000/spark.png">
   <img src="https://img.icons8.com/color/48/000000/javascript.png">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png">
   <img src="https://img.icons8.com/color/48/000000/react-native.png">
   <img src="https://img.icons8.com/color/48/000000/css3.png">
-  <img src="https://img.icons8.com/color/48/000000/effect.png">
+  <img src="https://img.icons8.com/?size=48&id=44807&format=png">
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
   <img src="https://img.icons8.com/color/48/000000/azure-1.png">
-  <img src="https://img.icons8.com/color/48/000000/vercel.png">
-  <img src="https://img.icons8.com/color/48/000000/flask.png">
+  <img src="https://img.icons8.com/?size=48&id=XdEIzNNFSuIl&format=png">
+  <img src="https://img.icons8.com/?size=48&id=13441&format=png">
   <img src="https://img.icons8.com/color/48/000000/django.png">
-  <img src="https://img.icons8.com/color/48/000000/fastapi.png">
+  <img src="https://img.icons8.com/?size=48&id=HvO1ZC5ESqGn&format=png">
   <img src="https://img.icons8.com/color/48/000000/git.png">
   <img src="https://img.icons8.com/color/48/000000/docker.png">
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png">
@@ -67,6 +67,7 @@
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png">
   <img src="https://img.icons8.com/color/48/000000/power-bi.png">
 </p>
+
 
 <details>
 
