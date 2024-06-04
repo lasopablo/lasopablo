@@ -72,7 +72,7 @@
 
 
 <details>
-<summary>Further details on tools.</summary>
+<summary>More details</summary>
 
 #### Programming
 <p align="center">
