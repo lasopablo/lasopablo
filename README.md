@@ -99,7 +99,7 @@
   <img src="https://img.shields.io/badge/Tools-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white">
-  <img src="https://img.icons8.com/?size=100&id=69132&format=png&color=000000">
+  <img src="https://img.shields.io/badge/Tools-Hadoop-yellow?style=for-the-badge&logo=amazon-dynamodb&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white">
 </p>
 
