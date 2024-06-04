@@ -30,6 +30,8 @@
 
 ### 🔧 Technologies & Tools
 
+<details> Here are some highlights of my work:
+
 #### Programming
 <p align="center">
   <img src="https://img.shields.io/badge/Code-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -93,6 +95,8 @@
   <img src="https://img.shields.io/badge/Tools-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
 </p>
+
+</details>
 
 
 ### 🌟 Highlighted Projects
