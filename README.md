@@ -157,11 +157,6 @@
 ### 📊 GitHub Stats
 
 <details>
-<p align="center">
-  <a href="https://github.com/lasopablo">
-    <img src="https://github-readme-stats.vercel.app/api?username=lasopablo&show_icons=true&theme=radical" alt="Pablo's GitHub Stats" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/lasopablo">
