@@ -52,6 +52,7 @@
   <img src="https://logowik.com/content/uploads/images/hadoop7135.jpg" height="50">
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" width="50" height="50">
   <img src="https://img.icons8.com/color/48/000000/javascript.png">
+  <img src="https://img.icons8.com/color/48/000000/typescript.png">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png">
   <img src="https://img.icons8.com/color/48/000000/react-native.png">
   <img src="https://img.icons8.com/color/48/000000/css3.png">
@@ -157,10 +158,39 @@
 ### 📊 GitHub Stats
 
 <details>
+<summary>Expand to view stats</summary>
 
 <p align="center">
+  <!-- Languages card -->
   <a href="https://github.com/lasopablo">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasopablo&layout=compact&theme=radical" alt="Top Languages" />
   </a>
+  
+  <!-- GitHub stats card -->
+  <a href="https://github.com/lasopablo">
+    <img src="https://github-readme-stats.vercel.app/api?username=lasopablo&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  </a>
+
+  <!-- GitHub streak stats -->
+  <a href="https://github.com/lasopablo">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lasopablo&theme=radical" alt="GitHub Streak" />
+  </a>
+
+  <!-- GitHub trophies -->
+  <a href="https://github.com/lasopablo">
+    <img src="https://github-profile-trophy.vercel.app/?username=lasopablo&theme=radical&row=1" alt="GitHub Trophies" />
+  </a>
+  
+  <!-- Recent GitHub Activity -->
+  ### 🔥 Recent Activity
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+
+  <!-- Dev Metrics -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lasopablo&theme=radical" alt="Profile Details">
+  
+  <!-- Code Time Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lasopablo&theme=radical&utcOffset=-8" alt="Productive Time">
 </p>
+
 </details>
