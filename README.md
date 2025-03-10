@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/lasopablo">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=1500&pause=10&multiline=true&width=600&height=120&lines=Pablo+Laso;Data+Scientist+(AI+and+Software+Engineer);Frontend intern @FireworksAI;MS+CS+@+Harvard+and+UT+(Netherlands);." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=1500&pause=10&multiline=true&width=600&height=120&lines=Pablo+Laso;Data+Scientist+(AI+and+Software+Engineer);SWE @FireworksAI;MS+CS+@+Harvard+and+UT+(Netherlands);." alt="Typing SVG" />
 
    
     
