@@ -119,17 +119,17 @@
   </a>
 </div>
 
-### 🚀 Projects
-
+### 🌟 MS Thesis Project
 <div align="center">
-  <a href="https://lasopablo.github.io/vcard_portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/View_Portfolio-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/lasopablo/freesurfer-freesurfer-dev-mri_WMHsynthseg/tree/main" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lasopablo&repo=freesurfer-freesurfer-dev-mri_WMHsynthseg&theme=radical" />
   </a>
 </div>
 
-### 👨‍💼 About Me
-
 <div align="center">
+  <a href="https://lasopablo.github.io/vcard_portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/View_More_Projects-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://lasopablo.github.io/vcard_portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/View_Profile-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
   </a>
