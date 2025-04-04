@@ -31,10 +31,6 @@
 
 ### 🔧 Technologies & Tools
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=header"/>
-</div>
-
 <p align="center">
   <!-- Core Backend & Infrastructure -->
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
@@ -72,7 +68,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
 <details>
@@ -122,8 +118,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lasopablo&repo=freesurfer-freesurfer-dev-mri_WMHsynthseg&theme=radical" />
   </a>
 </div>
-
-✔️ MS thesis @Harvard: **Deep Learning optimisation and data augmentation methods for WMH quantification**
 
 ### 🚀 Projects
 
