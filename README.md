@@ -2,31 +2,32 @@
 
 <p align="center">
 <a href="https://github.com/lasopablo">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=1500&pause=10&multiline=true&width=600&height=120&lines=Pablo+Laso;Data+Scientist+(AI+and+Software+Engineer);SWE @FireworksAI;MS+CS+@+Harvard+and+UT+(Netherlands);." alt="Typing SVG" />
-
-   
-    
-    
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=1500&pause=10&multiline=true&width=600&height=120&lines=Pablo+Laso;Data+Scientist+(AI+and+Software+Engineer);SWE+@FireworksAI;MS+CS+@+Harvard+and+UT+(Netherlands);." alt="Typing SVG" />
 </a>
 <br/>
     
-<a href="https://lasopablo.github.io/vcard_portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-website-1f425f?style=flat-square">
-</a>
-<a href="https://lasopablo.github.io/resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-PDF-critical?style=flat-square&logo=adobe&logoColor=white">
-</a>  
-<a href="https://www.linkedin.com/in/lasopablo/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:plaso@kth.se">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white">
-</a>
-<a href="https://scholar.google.com/citations?user=fg-K6PIAAAAJ&hl=en" target="_blank">
-    <img alt='Google Scholar' src='https://img.shields.io/badge/Scholar-4285F4?style=flat&logo=GoogleScholar&logoColor=white'>
-</a>
+<div align="center">
+  <a href="https://lasopablo.github.io/vcard_portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-website-1f425f?style=for-the-badge&logo=globe&logoColor=white">
+  </a>
+  <a href="https://lasopablo.github.io/resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-PDF-critical?style=for-the-badge&logo=adobe&logoColor=white">
+  </a>  
+  <a href="https://www.linkedin.com/in/lasopablo/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:plaso@kth.se">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://scholar.google.com/citations?user=fg-K6PIAAAAJ&hl=en" target="_blank">
+    <img alt='Google Scholar' src='https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=GoogleScholar&logoColor=white'>
+  </a>
+</div>
 </p>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</div>
 
 ### 🔧 Technologies & Tools
 
@@ -47,7 +48,7 @@
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React">
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++">
   
-  <!-- Data Science & ML -->
+  <!-- Data Science -->
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas">
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" width="50" height="50" alt="Scikit-learn">
@@ -65,6 +66,10 @@
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau">
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI">
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
 
 <details>
 <summary>More details</summary>
@@ -108,23 +113,36 @@
 
 ### 🌟 Highlighted Projects
 
-✔️ MS thesis @Harvard: **Deep Learning optimisation and data augmentation methods for WMH quantification**: Visit the repo here: [my repo](https://github.com/lasopablo/freesurfer-freesurfer-dev-mri_WMHsynthseg/tree/main)
+<div align="center">
+  <a href="https://github.com/lasopablo/freesurfer-freesurfer-dev-mri_WMHsynthseg/tree/main">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lasopablo&repo=freesurfer-freesurfer-dev-mri_WMHsynthseg&theme=radical" />
+  </a>
+</div>
 
+✔️ MS thesis @Harvard: **Deep Learning optimisation and data augmentation methods for WMH quantification**
 
 ### 🚀 Projects
 
-✔️ **website available**: Visit my projects here: [my portfolio](https://lasopablo.github.io/vcard_portfolio/)
+<div align="center">
+  <a href="https://lasopablo.github.io/vcard_portfolio/">
+    <img src="https://img.shields.io/badge/View_Projects-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
 ### 👨‍💼 About Me
 
-✔️ **website available**: Visit my profile here: [my portfolio](https://lasopablo.github.io/vcard_portfolio/)
+<div align="center">
+  <a href="https://lasopablo.github.io/vcard_portfolio/">
+    <img src="https://img.shields.io/badge/View_Profile-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
 ### 📊 GitHub Stats
 
 <details>
 <summary>Expand to view stats</summary>
 
-<p align="center">
+<div align="center">
   <!-- Languages card -->
   <a href="https://github.com/lasopablo">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasopablo&layout=compact&theme=radical" alt="Top Languages" />
@@ -145,16 +163,15 @@
     <img src="https://github-profile-trophy.vercel.app/?username=lasopablo&theme=radical&row=1" alt="GitHub Trophies" />
   </a>
   
-  <!-- Recent GitHub Activity -->
-  ### 🔥 Recent Activity
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
-
   <!-- Dev Metrics -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lasopablo&theme=radical" alt="Profile Details">
   
   <!-- Code Time Stats -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lasopablo&theme=radical&utcOffset=-8" alt="Productive Time">
-</p>
+</div>
 
 </details>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lasopablo&color=blueviolet" alt="Profile Views" />
+</div>
