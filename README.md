@@ -112,14 +112,6 @@
 </details>
 
 ### 🌟 Highlighted Projects
-
-<div align="center">
-  <a href="https://github.com/lasopablo/freesurfer-freesurfer-dev-mri_WMHsynthseg/tree/main" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lasopablo&repo=freesurfer-freesurfer-dev-mri_WMHsynthseg&theme=radical" />
-  </a>
-</div>
-
-### 🌟 MS Thesis Project
 <div align="center">
   <a href="https://github.com/lasopablo/freesurfer-freesurfer-dev-mri_WMHsynthseg/tree/main" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lasopablo&repo=freesurfer-freesurfer-dev-mri_WMHsynthseg&theme=radical" />
