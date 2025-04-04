@@ -37,23 +37,19 @@
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React">
-  *
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas">
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" width="50" height="50" alt="Scikit-learn">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/scipy/scipy.png" width="50" height="50" alt="SciPy">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" width="50" height="50" alt="PyTorch">
-  *
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL">
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB">
   <img src="https://static-00.iconduck.com/assets.00/aws-dynamodb-icon-454x512-53ebjxww.png" width="50" height="50" alt="DynamoDB">
-  *
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS">
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker">
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes">
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git">
-  *
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel">
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau">
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI">
