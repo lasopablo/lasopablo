@@ -71,44 +71,52 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
+### 🌟 MS Thesis Project
 <div align="center">
   <a href="https://github.com/lasopablo/freesurfer-freesurfer-dev-mri_WMHsynthseg/tree/main" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lasopablo&repo=freesurfer-freesurfer-dev-mri_WMHsynthseg&theme=radical" />
   </a>
-  <a href="https://lasopablo.github.io/vcard_portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/View_Portfolio-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <details>
-    <summary><img src="https://img.shields.io/badge/GitHub_Stats-2ea44f?style=for-the-badge&logo=github&logoColor=white" /></summary>
-    <div align="center">
-      <!-- Languages card -->
-      <a href="https://github.com/lasopablo" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasopablo&layout=compact&theme=radical" alt="Top Languages" />
-      </a>
-      
-      <!-- GitHub stats card -->
-      <a href="https://github.com/lasopablo" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=lasopablo&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-      </a>
-
-      <!-- GitHub streak stats -->
-      <a href="https://github.com/lasopablo" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=lasopablo&theme=radical" alt="GitHub Streak" />
-      </a>
-
-      <!-- GitHub trophies -->
-      <a href="https://github.com/lasopablo" target="_blank">
-        <img src="https://github-profile-trophy.vercel.app/?username=lasopablo&theme=radical&row=1" alt="GitHub Trophies" />
-      </a>
-      
-      <!-- Dev Metrics -->
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lasopablo&theme=radical" alt="Profile Details">
-      
-      <!-- Code Time Stats -->
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lasopablo&theme=radical&utcOffset=-8" alt="Productive Time">
-    </div>
-  </details>
 </div>
+
+<div align="center">
+  <a href="https://lasopablo.github.io/vcard_portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/View_More_Projects-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://lasopablo.github.io/vcard_portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Profile-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<details>
+<summary><img src="https://img.shields.io/badge/GitHub_Stats-2ea44f?style=for-the-badge&logo=github&logoColor=white" /></summary>
+<div align="center">
+  <!-- Languages card -->
+  <a href="https://github.com/lasopablo" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasopablo&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+  
+  <!-- GitHub stats card -->
+  <a href="https://github.com/lasopablo" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=lasopablo&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  </a>
+
+  <!-- GitHub streak stats -->
+  <a href="https://github.com/lasopablo" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lasopablo&theme=radical" alt="GitHub Streak" />
+  </a>
+
+  <!-- GitHub trophies -->
+  <a href="https://github.com/lasopablo" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=lasopablo&theme=radical&row=1" alt="GitHub Trophies" />
+  </a>
+  
+  <!-- Dev Metrics -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lasopablo&theme=radical" alt="Profile Details">
+  
+  <!-- Code Time Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lasopablo&theme=radical&utcOffset=-8" alt="Productive Time">
+</div>
+</details>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lasopablo&color=blueviolet" alt="Profile Views" />
