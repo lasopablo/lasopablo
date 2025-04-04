@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-<a href="https://github.com/lasopablo" target="_blank">
+<a href="https://github.com/lasopablo" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=1500&pause=10&multiline=true&width=600&height=120&lines=Pablo+Laso;Data+Scientist+(AI+and+Software+Engineer);SWE+@FireworksAI;MS+CS+@+Harvard+and+UT+(Netherlands);." alt="Typing SVG" />
 </a>
 <br/>
@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/lasopablo/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:plaso@kth.se" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:plaso@kth.se">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://scholar.google.com/citations?user=fg-K6PIAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
@@ -112,16 +112,26 @@
 </details>
 
 ### 🌟 Highlighted Projects
+
 <div align="center">
-  <a href="https://github.com/lasopablo/freesurfer-freesurfer-dev-mri_WMHsynthseg/tree/main" target="_blank">
+  <a href="https://github.com/lasopablo/freesurfer-freesurfer-dev-mri_WMHsynthseg/tree/main" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lasopablo&repo=freesurfer-freesurfer-dev-mri_WMHsynthseg&theme=radical" />
   </a>
 </div>
 
+✔️ MS thesis @Harvard: **Deep Learning optimisation and data augmentation methods for WMH quantification**
+
+### 🚀 Projects
+
 <div align="center">
   <a href="https://lasopablo.github.io/vcard_portfolio/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/View_More_Projects-2ea44f?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View_Projects-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</div>
+
+### 👨‍💼 About Me
+
+<div align="center">
   <a href="https://lasopablo.github.io/vcard_portfolio/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/View_Profile-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -134,22 +144,22 @@
 
 <div align="center">
   <!-- Languages card -->
-  <a href="https://github.com/lasopablo" target="_blank">
+  <a href="https://github.com/lasopablo" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasopablo&layout=compact&theme=radical" alt="Top Languages" />
   </a>
   
   <!-- GitHub stats card -->
-  <a href="https://github.com/lasopablo" target="_blank">
+  <a href="https://github.com/lasopablo" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api?username=lasopablo&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   </a>
 
   <!-- GitHub streak stats -->
-  <a href="https://github.com/lasopablo" target="_blank">
+  <a href="https://github.com/lasopablo" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=lasopablo&theme=radical" alt="GitHub Streak" />
   </a>
 
   <!-- GitHub trophies -->
-  <a href="https://github.com/lasopablo" target="_blank">
+  <a href="https://github.com/lasopablo" target="_blank" rel="noopener noreferrer">
     <img src="https://github-profile-trophy.vercel.app/?username=lasopablo&theme=radical&row=1" alt="GitHub Trophies" />
   </a>
   
