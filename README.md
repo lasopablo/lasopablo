@@ -30,40 +30,51 @@
 
 ### 🔧 Technologies & Tools
 
-
+#### Core Programming Languages
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/python.png">
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
-  <img src="https://img.icons8.com/?size=48&id=CLvQeiwFpit4&format=png&color=000000">
-  <img src="https://img.icons8.com/?size=48&id=9MJf0ngDwS8z&format=png&color=000000">
-  <img src="https://img.icons8.com/?size=48&id=17842&format=png&color=000000">
-  <img src="https://img.icons8.com/color/48/000000/pandas.png">
-  <img src="https://img.icons8.com/color/48/000000/numpy.png">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" width="50" height="50"">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/scipy/scipy.png" width="50" height="50">
-  <img src="https://www.opensourceforu.com/wp-content/uploads/2017/01/Illustration-2D-Plotting.jpg" width="50" height="50">
-  <img src="https://cdn-b.saashub.com/images/app/service_logos/182/p54xtlu2fsl4/large.png?1626158441" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" width="50" height="50">
-  <img src="https://img.icons8.com/color/48/000000/git.png">
-  <img src="https://img.icons8.com/color/48/000000/docker.png">
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png">
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png">
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png">
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png">
-  <img src="https://static-00.iconduck.com/assets.00/aws-dynamodb-icon-454x512-53ebjxww.png" width="50" height="50">
-  <img src="https://logowik.com/content/uploads/images/hadoop7135.jpg" height="50">
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" width="50" height="50">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png">
-  <img src="https://img.icons8.com/color/48/000000/typescript.png">
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtgdeliEiCynaZMB2giC3G-dPnSuY4Y8--gw&s" width="50" height="50">
-  <img src="https://img.icons8.com/color/48/000000/react-native.png">
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png">
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png">
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
 </p>
 
+#### Data Science & Machine Learning
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas">
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" width="50" height="50" alt="Scikit-learn">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/scipy/scipy.png" width="50" height="50" alt="SciPy">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" width="50" height="50" alt="PyTorch">
+</p>
+
+#### Web Development
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React">
+</p>
+
+#### Databases & Data Storage
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL">
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL">
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB">
+  <img src="https://static-00.iconduck.com/assets.00/aws-dynamodb-icon-454x512-53ebjxww.png" width="50" height="50" alt="DynamoDB">
+</p>
+
+#### Cloud & DevOps
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS">
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker">
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes">
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git">
+</p>
+
+#### Data Visualization & Business Intelligence
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel">
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau">
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI">
+</p>
 
 <details>
 <summary>More details</summary>
