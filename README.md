@@ -7,19 +7,19 @@
 <br/>
     
 <div align="center">
-  <a href="https://lasopablo.github.io/vcard_portfolio/" target="_blank">
+  <a href="https://lasopablo.github.io/vcard_portfolio/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-website-1f425f?style=for-the-badge&logo=globe&logoColor=white">
   </a>
-  <a href="https://lasopablo.github.io/resume.pdf" target="_blank">
+  <a href="https://lasopablo.github.io/resume.pdf" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Resume-PDF-critical?style=for-the-badge&logo=adobe&logoColor=white">
   </a>  
-  <a href="https://www.linkedin.com/in/lasopablo/" target="_blank">
+  <a href="https://www.linkedin.com/in/lasopablo/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:plaso@kth.se">
+  <a href="mailto:plaso@kth.se" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://scholar.google.com/citations?user=fg-K6PIAAAAJ&hl=en" target="_blank">
+  <a href="https://scholar.google.com/citations?user=fg-K6PIAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
     <img alt='Google Scholar' src='https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=GoogleScholar&logoColor=white'>
   </a>
 </div>
@@ -119,10 +119,10 @@
 </div>
 
 <div align="center">
-  <a href="https://lasopablo.github.io/vcard_portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/View_More_Projects-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://lasopablo.github.io/vcard_portfolio/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/View_More_Projects-2ea44f?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://lasopablo.github.io/vcard_portfolio/" target="_blank">
+  <a href="https://lasopablo.github.io/vcard_portfolio/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/View_Profile-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
