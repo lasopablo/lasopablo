@@ -37,7 +37,7 @@
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React">
-  <img src="https://img.icons8.com/color/48/000000/go.png" alt="Go">
+  <img src="https://go.dev/images/go-logo-blue.svg" width="48" height="48" alt="Go">
   
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas">
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy">
