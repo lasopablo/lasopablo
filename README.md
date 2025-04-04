@@ -11,7 +11,7 @@
 <br/>
     
 <a href="https://lasopablo.github.io/vcard_portfolio/">
-    <img src="https://img.shields.io/badge/Website-lasopablo.github.io-1f425f?style=flat-square">
+    <img src="https://img.shields.io/badge/Portfolio-website-1f425f?style=flat-square">
 </a>
 <a href="https://lasopablo.github.io/resume.pdf">
     <img src="https://img.shields.io/badge/Resume-PDF-critical?style=flat-square&logo=adobe&logoColor=white">
@@ -32,9 +32,8 @@
 
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
   <img src="https://img.icons8.com/color/48/000000/python.png">
-  <img src="https://img.icons8.com/?size=48&id=r5Y16PcDkoWI&format=png&color=000000">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
   <img src="https://img.icons8.com/?size=48&id=CLvQeiwFpit4&format=png&color=000000">
   <img src="https://img.icons8.com/?size=48&id=9MJf0ngDwS8z&format=png&color=000000">
   <img src="https://img.icons8.com/?size=48&id=17842&format=png&color=000000">
@@ -45,6 +44,9 @@
   <img src="https://www.opensourceforu.com/wp-content/uploads/2017/01/Illustration-2D-Plotting.jpg" width="50" height="50">
   <img src="https://cdn-b.saashub.com/images/app/service_logos/182/p54xtlu2fsl4/large.png?1626158441" width="50" height="50">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" width="50" height="50">
+  <img src="https://img.icons8.com/color/48/000000/git.png">
+  <img src="https://img.icons8.com/color/48/000000/docker.png">
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png">
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png">
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png">
@@ -54,18 +56,9 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png">
   <img src="https://img.icons8.com/color/48/000000/typescript.png">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png">
-  <img src="https://img.icons8.com/color/48/000000/react-native.png">
-  <img src="https://img.icons8.com/color/48/000000/css3.png">
-  <img src="https://img.icons8.com/?size=48&id=44807&format=png">
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
-  <img src="https://img.icons8.com/color/48/000000/azure-1.png">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtgdeliEiCynaZMB2giC3G-dPnSuY4Y8--gw&s" width="50" height="50">
-  <img src="https://nordicapis.com/wp-content/uploads/How-to-Create-an-API-Using-The-Flask-Framework.png" width="50" height="50">
-  <img src="https://img.icons8.com/color/48/000000/django.png">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" width="50" height="50">
-  <img src="https://img.icons8.com/color/48/000000/git.png">
-  <img src="https://img.icons8.com/color/48/000000/docker.png">
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png">
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png">
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png">
   <img src="https://img.icons8.com/color/48/000000/power-bi.png">
